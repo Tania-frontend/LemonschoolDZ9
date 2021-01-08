@@ -63,7 +63,7 @@ a.login-name{
 	align-self: center;
 	text-decoration: underline;
 }
-a.login-name:hover{
+a:hover{
 	text-decoration: none;
 	color: #f7afa3;
 }
